@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @erisademiri
-- 👀 I’m interested in technology, Psychology, Economics and coding languages.
-- 🌱 I’m currently learning Chinese, CSS and other coding languages.
-- 💞️ I’m looking to collaborate on coding projects.
-- 📫 You can reach me on any of my socials, links here: beacons.ai/studywithcerise
+- 👀 I’m studying Economics, Rural Policies, EU Policies, Agriculture.
+- 🌱 R, Python, SPSS, HTML
+- 💞️ Albanian (native), English (C1), German (B1), Chinese (HSK 4)
+- 📫 Email for collaborations erisademiri@protonmail.ch
 
 <!---
 erisademiri/erisademiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
